@@ -1,6 +1,6 @@
 # 💫 About Me:
 👋 Hi, I’m Tanisha — a Computer Science student exploring Machine Learning and Full Stack Development.<br>🚀 I’m interested in building end-to-end applications where data, logic, and user interfaces come together.<br>👩‍💻 I enjoy learning how to turn ideas into practical solutions by combining models, backend systems, and clean web experiences.<br>⚡ Fun fact: I fix one bug and accidentally discover three more.
-<br>Pronouns: she/her.
+<br>💪Pronouns: she/her.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Tanisha Kulshrestha) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/TanishaKul10560) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tanishakulshrestha26@gmail.com) 
