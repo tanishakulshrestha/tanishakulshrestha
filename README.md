@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hi, I’m Tanisha — a Computer Science student exploring Machine Learning and Full Stack Development.<br>🚀 I’m interested in building end-to-end applications where data, logic, and user interfaces come together.<br>👩‍💻 I enjoy learning how to turn ideas into practical solutions by combining models, backend systems, and clean web experiences.<br>⚡ Fun fact: I fix one bug and accidentally discover three more.
+# About Me:
+ Hi, I’m Tanisha — a Computer Science student exploring Machine Learning and Full Stack Development.<br>🚀 I’m interested in building end-to-end applications where data, logic, and user interfaces come together.<br>👩‍💻 I enjoy learning how to turn ideas into practical solutions by combining models, backend systems, and clean web experiences.<br>⚡ Fun fact: I fix one bug and accidentally discover three more.
 <br>💪Pronouns: she/her.
 
 ## 🌐 Socials:
